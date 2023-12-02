@@ -1,0 +1,23 @@
+body {
+    background-color: sienna;
+}
+
+h1 {
+    background-color: sandybrown;
+}
+
+h2 {
+    font-size: 30px ;
+}
+
+p {
+    font-size: 25px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+ol {
+    font-size: 20px;
+}
