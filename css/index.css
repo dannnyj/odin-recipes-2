@@ -1,16 +1,15 @@
 body {
-    background-color: darkgoldenrod;
+    background-color: darkgreen;
     font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
     text-align: center;
-    color: brown;
+    color: goldenrod;
 }
 
 ul {
     text-align: center;
-    list-style-type: none;
    font-size: 30px;
    
     
@@ -18,14 +17,14 @@ ul {
 
 a {
     text-decoration: none;
+    color: greenyellow;
 }
 
 li {
     width: 200px;
     height: 100px;
     display: inline;
-    border: black 10px
+    border: solid darkcyan 5px;
+    padding: 10px;
+    margin: 0 40px;
 }
-
-
-
